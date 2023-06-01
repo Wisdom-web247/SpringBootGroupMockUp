@@ -5,16 +5,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MockUpApplication {
+	
 
 	public static void main(String[] args) {
 		SpringApplication.run(MockUpApplication.class, args);
-		String Name = "Nyiko";
-	    String Password = "Buxhi";
-
-
-		System.out.println(Name + "" + Password);
 		
+		System.out.println("Hello world");
+		System.out.println("Hello world");
 	}
+	
 
 	
 	
@@ -22,3 +21,4 @@ public class MockUpApplication {
 	
 
 }
+
