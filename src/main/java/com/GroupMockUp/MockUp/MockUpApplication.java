@@ -8,7 +8,6 @@ public class MockUpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MockUpApplication.class, args);
-		SpringApplication.run(MockUpApplication.class, args);
 	}
 
 }
