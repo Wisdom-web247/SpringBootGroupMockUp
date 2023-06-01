@@ -8,6 +8,17 @@ public class MockUpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MockUpApplication.class, args);
+		String Name = "Nyiko";
+	    String Password = "Buxhi";
+
+
+		System.out.println(Name + "" + Password);
+		
 	}
+
+	
+	
+
+	
 
 }
